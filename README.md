@@ -20,12 +20,21 @@ yarn add react-3d-tag-sphere
 - **Image-Based Tags**: Each tag can display an image with optional customization.
 - **Smooth Animations**: Offers fluid animations and scaling for tags.
 
+## Demo Video
+
+Here is a demo of the project in action:
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/Bum-Ho12/react-3d-tag-sphere/blob/main/react-3d-tag-sphere.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Usage
 
 ### Import and Setup
 
 ```tsx
-"use client";
 import React from "react";
 import { TagCloudCanvas } from 'react-3d-tag-sphere';
 
