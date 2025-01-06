@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Mac OS X
+.DS_Store

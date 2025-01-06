@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES5",  // Use ES5 for compatibility
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "outDir": "./dist",  // Output directory for compiled files
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "declaration": true,  // Generate .d.ts files
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "react",
+        "lib": ["dom", "es2015"],
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
