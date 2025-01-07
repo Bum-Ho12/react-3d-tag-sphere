@@ -1,6 +1,6 @@
 {
   "name": "react-3d-tag-sphere",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The react-3d-tag-sphere component allows you to create an interactive and visually appealing 3D rotating tag cloud using images. This React component provides a spherical layout of tags that rotate dynamically based on user interactions or automatic animations, offering an engaging experience for applications like portfolio showcases, logos, or data visualization.",
   "keywords": [
     "react",
