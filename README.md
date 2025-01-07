@@ -24,10 +24,7 @@ yarn add react-3d-tag-sphere
 
 Here is a demo of the project in action:
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/Bum-Ho12/react-3d-tag-sphere/main/react-3d-tag-sphere.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Tag Cloud Canvas Video](https://github.com/Bum-Ho12/react-3d-tag-sphere/blob/main/tagCloudCanvasVideo.gif)
 
 
 ## Usage
